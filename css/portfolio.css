@@ -1,0 +1,37 @@
+#header {
+  height: 700px;
+  background-image: url("https://raw.githubusercontent.com/poemtree/poemtree.github.io/master/assets/images/tree.jpg");
+  background-size: cover;
+}
+
+.header_text{
+  height: 700px;
+}
+
+#header hr {
+  width: 60px;
+  border-top: 3px solid rgba(51, 153, 102, 0.8);
+}
+
+#about {
+  height: 500px;
+  background-color: #339966;
+}
+
+.about_text {
+  height: 500px;
+}
+
+#about hr {
+  width: 200px;
+  border-top: 3px solid rgba(255, 255, 255, 0.8);
+}
+
+#portfolio {
+  height: 500px;
+  background-color: white;
+}
+
+.portfolio_text{
+  height: 500px;
+}
