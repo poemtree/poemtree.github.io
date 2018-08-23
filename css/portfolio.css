@@ -102,7 +102,7 @@
   height: 25px;
   right: -17px;
   background-color: white;
-  border: 4px solid #FF9F55;
+  border: 4px solid rgba(51, 153, 102, 0.8);
   top: 15px;
   border-radius: 50%;
   z-index: 1;
@@ -110,12 +110,12 @@
 
 /* Place the container to the left */
 .timeline .left {
-  left: 0;
+  left: -25.4%;
 }
 
 /* Place the container to the right */
 .timeline .right {
-  left: 50%;
+  left: 25.3%;
 }
 
 /* Add arrows to the left container (pointing right) */
