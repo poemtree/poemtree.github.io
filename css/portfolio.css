@@ -41,21 +41,26 @@
 }
 
 .skills_text {
-  height: 500px;
+  margin-top: 50px;
 }
 
 #skills hr {
   width: 3rem;
-  border-top: 3px solid rgba(255, 255, 255, 0.8);
+  border-top: 3px solid rgba(51, 153, 102, 0.8);
 }
 
-#portfolio {
-  height: 500px;
+#projects {
+  height: 600px;
   background-color: white;
 }
 
-.portfolio_text{
-  height: 500px;
+.projects_text {
+  margin-top: 50px;
+}
+
+#projects hr {
+  width: 3rem;
+  border-top: 3px solid rgba(51, 153, 102, 0.8);
 }
 
 #timeline {
