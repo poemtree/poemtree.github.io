@@ -6,10 +6,12 @@
   font-size: 2em;
 }
 
+/*
+background-image: url("https://raw.githubusercontent.com/poemtree/poemtree.github.io/master/images/tree.jpg");
+background-size: cover;
+*/
 #header {
   height: 700px;
-  background-image: url("https://raw.githubusercontent.com/poemtree/poemtree.github.io/master/images/tree.jpg");
-  background-size: cover;
 }
 
 .header_text{
@@ -45,20 +47,6 @@
 }
 
 #skills hr {
-  width: 3rem;
-  border-top: 3px solid rgba(51, 153, 102, 0.8);
-}
-
-#projects {
-  height: 600px;
-  background-color: white;
-}
-
-.projects_text {
-  margin-top: 50px;
-}
-
-#projects hr {
   width: 3rem;
   border-top: 3px solid rgba(51, 153, 102, 0.8);
 }
