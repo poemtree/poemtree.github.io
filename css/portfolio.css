@@ -23,6 +23,20 @@ background-size: cover;
   border-top: 3px solid rgba(51, 153, 102, 0.8);
 }
 
+.card-deck {
+  max-width: 100%;
+  min-height: 70%
+}
+
+.card {
+  max-width: 18rem;
+  min-height: 80%;
+}
+
+.card img {
+  max-width: 50%;
+}
+
 #about {
   height: 600px;
   background-color: #339966;
