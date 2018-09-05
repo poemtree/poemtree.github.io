@@ -61,7 +61,7 @@ background-size: cover;
 }
 
 #skills {
-  height: 600px;
+  height: 500px;
   background-color: white;
 }
 
@@ -72,6 +72,10 @@ background-size: cover;
 #skills hr {
   width: 3rem;
   border-top: 3px solid rgba(51, 153, 102, 0.8);
+}
+
+#skills .container {
+  margin-left: auto;
 }
 
 #timeline {
