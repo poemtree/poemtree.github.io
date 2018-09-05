@@ -78,6 +78,15 @@ background-size: cover;
   margin-left: auto;
 }
 
+#contact {
+  height: 300px;
+  background-color: white;
+}
+
+.contact_text {
+  margin-top: 50px;
+}
+
 #timeline {
   background-color: #474e5d;
   font-family: Helvetica, sans-serif;
