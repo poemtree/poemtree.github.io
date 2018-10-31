@@ -53,6 +53,7 @@ background-size: cover;
 
 .about_text {
   height: 500px;
+  padding-top: 50px;
 }
 
 #about hr {
@@ -66,7 +67,7 @@ background-size: cover;
 }
 
 .skills_text {
-  margin-top: 50px;
+  padding-top: 50px;
 }
 
 #skills hr {
@@ -84,7 +85,7 @@ background-size: cover;
 }
 
 .contact_text {
-  margin-top: 50px;
+  padding-top: 50px;
 }
 
 #timeline {
